@@ -24,23 +24,19 @@ I am a student passionate about building digital solutions. I love exploring new
 ---
 
 ### 🏆 GitHub Trophies
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=Dapoya&theme=tokyonight&no-frame=true&margin-w=15" alt="Trophies" />
-</p>
+![Trophies](https://github-profile-trophy.vercel.app/?username=Dapoya&theme=tokyonight&no-frame=true&margin-w=15)
 
 ---
 
 ### 📈 Most Used Languages
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dapoya&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
-</p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dapoya&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
 ### 📫 Let's Connect
 <p align="left">
-<a href="https://linkedin.com/in/LINKEDIN_KAMU" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="mailto:EMAIL_KAMU@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Gmail" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/daffa-fazila-arfa-089196329" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+<a href="mailto:daffa.fazila.arfa@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Gmail" height="30" width="40" /></a>
 </p>
 
 ---
