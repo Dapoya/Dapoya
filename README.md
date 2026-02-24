@@ -1,13 +1,5 @@
 # 💫 About Me
 
-<table align="right">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Dapoya&show_icons=true&theme=tokyonight&hide_border=true" alt="Stats" />
-    </td>
-  </tr>
-</table>
-
 ### Hi there, I'm **Daffa Fazila Arfa** 👋
 **Junior Web Developer | Tech Enthusiast**
 
@@ -23,13 +15,17 @@ I am a student passionate about building digital solutions. I love exploring new
 
 ---
 
-### 🏆 GitHub Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=Dapoya&theme=tokyonight&no-frame=true&margin-w=15)
+### 📊 Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dapoya&theme=tokyo-night&area=true&hide_border=true" width="100%" />
+</p>
 
 ---
 
-### 📈 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dapoya&layout=compact&theme=tokyonight&hide_border=true)
+### 📈 GitHub Profile Summary
+<p align="center">
+  <img src="https://github-readme-stats-two-no-border.vercel.app/api?username=Dapoya&show_icons=true&theme=tokyonight" alt="Stats" />
+</p>
 
 ---
 
