@@ -1,38 +1,49 @@
-# Hi there, I'm Daffa Fazila Arfa 👋
+# 💫 About Me
 
-### 👨‍💻 Junior Web Developer
+<table align="right">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=Dapoya&show_icons=true&theme=tokyonight&hide_border=true" alt="Stats" />
+    </td>
+  </tr>
+</table>
 
----
+### Hi there, I'm **Daffa Fazila Arfa** 👋
+**Junior Web Developer | Tech Enthusiast**
 
-### 🛠️ Tech Stack & Tools
-
-**Languages & Frameworks**
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-
-**Tools & Platforms**
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+I am a student passionate about building digital solutions. I love exploring new technologies and turning ideas into functional code. Currently focusing on mastering Python and modern Web Development.
 
 ---
 
-### 📊 GitHub Stats
-| My GitHub Stats | Top Languages |
-| :--- | :--- |
-| ![Stats](https://github-readme-stats.vercel.app/api?username=[USERNAME_KAMU]&show_icons=true&theme=radical&hide_border=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[USERNAME_KAMU]&layout=compact&theme=radical&hide_border=true) |
+### 🚀 Tech Stack & Tools
+
+**Languages & Frameworks** [![My Skills](https://skillicons.dev/icons?i=py,js,html,css,tailwind,bootstrap)](https://skillicons.dev)
+
+**Tools & Platforms** [![My Tools](https://skillicons.dev/icons?i=git,github,vscode,pycharm,figma,vercel)](https://skillicons.dev)
 
 ---
 
-### 🚀 Projects & Contributions
-- 🔭 **Current Focus:** Building scalable web applications and automation tools.
-- 🌱 **Learning:** Expanding my knowledge in Software Architecture and Cloud Computing.
-- 💬 **Ask me about:** Python, Web Development, or Tech Trends.
+### 🏆 GitHub Trophies
+<p align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=Dapoya&theme=tokyonight&no-frame=true&margin-w=15" alt="Trophies" />
+</p>
 
 ---
 
-### 📫 Connect with me
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](LINK_LINKEDIN_KAMU)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:EMAIL_KAMU@gmail.com)
+### 📈 Most Used Languages
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dapoya&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
+</p>
+
+---
+
+### 📫 Let's Connect
+<p align="left">
+<a href="https://linkedin.com/in/LINKEDIN_KAMU" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+<a href="mailto:EMAIL_KAMU@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Gmail" height="30" width="40" /></a>
+</p>
+
+---
+<p align="center">
+  <i>"Code is like humor. When you have to explain it, it’s bad."</i>
+</p>
